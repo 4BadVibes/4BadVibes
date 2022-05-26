@@ -14,7 +14,6 @@
 </div>
 
 ##
-
 ![Snake animation](https://github.com/4BadVibes/4BadVibes/blob/output/github-contribution-grid-snake.svg)
 
 
