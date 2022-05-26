@@ -1,4 +1,4 @@
-### Olá eu sou o Lucas, Desenvolvedor Front-End e Audio Engineer.  
+### Olá eu sou o Lucas, Desenvolvedor Front-End e MIxer Engineer.  
 
 <div align="center">
   <a href="https://github.com/4BadVibes">
